@@ -1,4 +1,4 @@
-# papa-dalto
+# repositorio uno en el curso de git
 Primer repo privado en github
 
 ## descripción
